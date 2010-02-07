@@ -1,0 +1,9 @@
+{
+    "name": "modular-php-packages",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/modular-php-packages.git"
+        }
+    ]
+}
